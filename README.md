@@ -12,7 +12,7 @@ Berikut adalah daftar tugas yang ada di dalam repositori ini:
 
 ### 📁 `/tugas-2-testing`
 * **Topik:** Software Testing.
-* **Deskripsi:** Berisi file dan dokumentasi yang berkaitan dengan penugasan testing, mencakup pembuatan skenario tes dan implementasinya.
+* **Deskripsi:** Berisi file dan dokumentasi yang berkaitan dengan penugasan testing, seperti Test Case, Test Plan, dan Bug Report.
 
 ### 📁 `/tugas-3-programming-fundamental`
 * **Topik:** Fundamental Pemrograman.
@@ -20,7 +20,7 @@ Berikut adalah daftar tugas yang ada di dalam repositori ini:
 
 ### 📁 `/tugas-4-programming-advanced`
 * **Topik:** Advanced Programming dengan JavaScript.
-* **Deskripsi:** Proyek **kalkulator sederhana** yang dibangun menggunakan HTML, CSS, dan JavaScript untuk menunjukkan penerapan manipulasi DOM dan logika *event handling*.
+* **Deskripsi:** Proyek **kalkulator sederhana** yang dibangun menggunakan JavaScript.
 
 ---
 
